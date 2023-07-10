@@ -8,9 +8,6 @@ var typed = new Typed(".typing" ,{
 
 function toggle(){
     sec.classList.toggle('active')
-<<<<<<< Updated upstream
-};
-=======
 };
 
 
@@ -30,4 +27,3 @@ navItems.forEach((item) => {
     item.classList.add('active');
   });
 });
->>>>>>> Stashed changes

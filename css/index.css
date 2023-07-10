@@ -247,11 +247,8 @@ ul {
   color: var(--text-black-900);
   padding: 5px 15px;
 }
-<<<<<<< Updated upstream
+
 .aside .nav li .activ {
-=======
-.aside .nav li a.active {
->>>>>>> Stashed changes
   color: var(--skin-color) !important;
 }
 
